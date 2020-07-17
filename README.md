@@ -1,11 +1,11 @@
-# Time-Series 
+# Time-Series/Avocado price analysis& Prediction 
 
-Introduction
+# Introduction
 
 This is an Open source dataset which I downloaded from kaggle.The data
-Shows the average sales price of avocado in different years.So I aimed 
-to explicitly explore and analyse how the prices of avocado changes over 
-a period of time. 
+Shows the average sales price of avocado for different years.So I aimed 
+to explicitly explore and analyse how the prices of avocado varies in 
+different regions over a given period of time. 
 
 The Steps taken to achieve these results in my notebook was divided into
 Problem statements which ran to problem-10.
