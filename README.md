@@ -5,10 +5,10 @@
 This is an Open source dataset which I downloaded from kaggle.The data
 Shows the average sales price of avocado for different years.So I aimed 
 to explicitly explore and analyse how the prices of avocado varies in 
-different regions over a given period of time. Also implemented models to study the time Series using ARiMA and Prophet model. 
+different regions over a given period of time. Also implemented models to study the time Series using ARIMA and FbProphet model. 
 
 The Steps taken to achieve these results in my notebook was divided into
-Problem statements which ran to problem-10.
+Problem statements which ran to problem-9.
 The Steps are as follows:
 
 ## Steps
