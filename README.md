@@ -1,4 +1,4 @@
-# Time-Series/Avocado price analysis& Prediction 
+# Exploratory data Analysis on Avocado sales and Time Series Analysis 
 
 # Introduction
 
