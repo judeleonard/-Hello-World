@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an Open source dataset which I downloaded from kaggle.The data
+This is a competition that was hosted on kaggle.The data
 Shows the average sales price of avocado for different years.So I aimed 
 to explicitly explore and analyse how the prices of avocado varies in 
 different regions over a given period of time. Also implemented models to study the time Series using ARIMA and FbProphet model. 
